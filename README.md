@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[My Blog]( viralmaniar.github.io) | [Twitter](https://twitter.com/maniarviral) | [Github](https://github.com/Viralmaniar)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viralmaniar)](https://github.com/Viralmaniar)
