@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1366" height="768" alt="image" src="[https://github.com/Viralmaniar/Viralmaniar/blob/master/a.gif](https://github.com/Viralmaniar/Viralmaniar/blob/master/a.gif)" />
+<img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/Viralmaniar/Viralmaniar/refs/heads/master/a.gif" />
 
 
 
