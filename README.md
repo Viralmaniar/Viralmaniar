@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://i.imgur.com/pQT0l.gif
+
+<img width="1366" height="768" alt="image" src="[https://github.com/user-attachments/assets/e548aeca-ecee-4f3d-901c-d4cb86ec2f70](https://i.imgur.com/pQT0l.gif)" />
 
 
 [My Blog](https://viralmaniar.github.io) | [Twitter](https://twitter.com/maniarviral) | [Github](https://github.com/Viralmaniar)
