@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1366" height="768" alt="image" src="[https://i.imgur.com/pQT0l.gif]" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c892b90c-af29-4917-8d30-3bbca40c98a3" />
+
 
 
 [My Blog](https://viralmaniar.github.io) | [Twitter](https://twitter.com/maniarviral) | [Github](https://github.com/Viralmaniar)
